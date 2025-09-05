@@ -561,14 +561,14 @@ Special thanks to:
 
 ### 💬 Get in Touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-musagithub1-181717?style=for-the-badge&logo=github)](https://github.com/musagithub1)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raja.mussa.khan786@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mussa-khan-49b784375/)
+[![GitHub](https://img.shields.io/badge/GitHub-musagithub1-181717?style=for-the-badge&logo=github)](https://github.com/chaitanyx)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyaladecr7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chaitanyx13/)
 
 ### 🐛 Issues & Feature Requests
 
-[![Issues](https://img.shields.io/github/issues/musagithub1/credit_scoring_project?style=for-the-badge)](https://github.com/musagithub1/credit_scoring_project/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/musagithub1/credit_scoring_project?style=for-the-badge)](https://github.com/musagithub1/credit_scoring_project/pulls)
+[![Issues](https://img.shields.io/github/issues/musagithub1/credit_scoring_project?style=for-the-badge)](https://github.com/Chaitanyx/OpacGuard/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/musagithub1/credit_scoring_project?style=for-the-badge)](https://github.com/Chaitanyx/OpacGuard/pulls)
 
 </div>
 
@@ -580,7 +580,7 @@ Special thanks to:
 
 <img src="https://via.placeholder.com/600x100/2E86AB/FFFFFF?text=Thank+You+for+Using+Credit+Scoring+ML+Pipeline!" alt="Thank You"/>
 
-**Made with ❤ by [Musa Khan]**
+**Made with ❤ **
 
 *Empowering Financial Decisions with Machine Learning*
 
