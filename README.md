@@ -76,8 +76,8 @@ Python 3.8+ • Git • pip
 ### Installation
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/musagithub1/credit_scoring_project.git
-cd credit_scoring_project
+git clone https://github.com/Chaitanyx/OpacGuard.git
+cd OpacGuard
 
 # 2️⃣ Create virtual environment
 python -m venv venv
